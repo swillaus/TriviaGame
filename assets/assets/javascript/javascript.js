@@ -8,9 +8,19 @@ var intervalId;
 
 var questions = [
   {
-    question: "Who won the 2000 AFL Grand Final",
+    question: "Who won the 2000 AFL Grand Final?",
     answers: ["Essendon", "Carton", "Brisbane", "Fremantle"],
     correct: "Essendon"
+  },
+  {
+    question: "Who won the 2018 Brownlow medial?",
+    answers: ["Jobe Watson", "Tom Mitchell", "Tony Modra", "Scott Pendlebury"],
+    correct: "Tom Mitchell"
+  },
+  {
+    question: "What city is the AFL Grand Final played in?",
+    answers: ["Sydney", "Adelaide", "Perth", "Melbourne"],
+    correct: "Melbourne"
   },
 ]
 

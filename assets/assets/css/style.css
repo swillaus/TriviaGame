@@ -7,3 +7,19 @@ h1 {
     color: blue;
 
 }
+
+body {
+    background-color: aqua;
+   
+}
+
+#questionBox, #timerDisplay{
+    background-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
